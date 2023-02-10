@@ -1,0 +1,10 @@
+
+body{
+    background-color: aqua !important;
+    padding-left : 300px;
+    padding-right : 300px;
+}
+.border{
+    margin: 10px;
+    border: 2px solid black !important;
+}
